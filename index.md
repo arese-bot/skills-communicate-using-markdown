@@ -1,1 +1,2 @@
-# 这是一个 <h1> 一级标题, 字号最大
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
